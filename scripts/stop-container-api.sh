@@ -1,0 +1,1 @@
+curl -X POST http://127.0.0.1:8080/container/0d3d0eb302b82d5c1dc42fd3738684986387a18414f454f43b9cf8f71e1f04c6/stop
